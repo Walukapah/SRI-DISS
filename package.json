@@ -12,6 +12,7 @@
   "dependencies": {
     "discord.js": "^14.16.0",
     "dotenv": "^16.0.3",
+    "pm2": "latest",
     "axios": "latest",
     "fs-extra": "latest"
   }
